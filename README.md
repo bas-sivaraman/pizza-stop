@@ -34,3 +34,4 @@ It has four simple features such as creating an order, displaying a menu, a cart
   * [Pizza Stop - project link](https://pizza-stop.vercel.app/)
   * Other projects
       * [The Wild Oasis](https://github.com/bas-sivaraman/the-wild-oasis)
+      * [React Quiz](https://github.com/bas-sivaraman/react-quiz)
